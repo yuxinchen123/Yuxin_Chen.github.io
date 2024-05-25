@@ -16,8 +16,8 @@ layout: home
         </td>
         <td>
             <p>
-                Assistant Professor<br>
-                <a href="https://engineering.virginia.edu/departments/computer-science">Department of Computer Science </a> <br>
+                Undergraduate Student<br>
+                <a href="https://engineering.virginia.edu/departments/computer-science">School of Arts and Science </a> <br>
                 <a href="https://www.virginia.edu/">University of Virginia </a> <br>
                 <br>
                 <b>Office</b>: 422 Rice Hall <br>
